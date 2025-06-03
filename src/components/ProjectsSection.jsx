@@ -16,8 +16,8 @@ const projects = [
     description: "Another React project (this one).",
     image: "/projects/project2.png",
     tags: ["React", "Tailwind CSS", "Filtering"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://cosmic-portfolio-phi.vercel.app/",
+    githubUrl: "https://github.com/Whirlspin/cosmic-portfolio",
   },
   {
     id: 3,
